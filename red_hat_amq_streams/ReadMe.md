@@ -1,7 +1,9 @@
 # Red Hat AMQ Streams Quick Start
 
-Below is a collection of links and examples to Red Hat AMQ Streams on OpenShift.
-[mycluster]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "My Red Hat AMQ Streams Cluster"
+Below is a collection of links and examples to Red Hat AMQ Streams on OpenShift.  
+
+
+![alt text](https://raw.githubusercontent.com/tosin2013/roar/master/red_hat_amq_streams/mycluster.png "My Red Hat AMQ Streams Cluster")
 
 ## Concepts
 **Red Hat AMQ Streams is a massively-scalable, distributed, and high-performance data streaming
@@ -39,7 +41,7 @@ components:***
    * Compacted based on message key
 
 ## Usage
- * Create AMQ Streams Operating on minishift
+* Create AMQ Streams Operating on minishift
  ```
  ./amq_streams.sh
  ```
